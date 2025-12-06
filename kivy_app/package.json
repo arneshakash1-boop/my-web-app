@@ -1,0 +1,30 @@
+{
+  "name": "drunkdetector-kivy",
+  "version": "0.2.0",
+  "description": "Drunk Detector - Python Kivy Mobile App with face detection and audio analysis",
+  "main": "main.py",
+  "scripts": {
+    "start": "python main.py",
+    "build-android": "buildozer android debug",
+    "build-ios": "buildozer ios debug",
+    "run": "python main.py"
+  },
+  "dependencies": {
+    "kivy": "^2.3.0",
+    "opencv-python": "^4.8.0",
+    "numpy": "^1.24.0",
+    "plyer": "^2.1.0",
+    "matplotlib": "^3.8.0",
+    "buildozer": "^1.4.0"
+  },
+  "keywords": [
+    "sobriety",
+    "face-detection",
+    "audio-analysis",
+    "mobile-app",
+    "kivy",
+    "python"
+  ],
+  "author": "Drunk Detector Team",
+  "license": "MIT"
+}
