@@ -1,6 +1,7 @@
 # Drunk Detector - React Native Expo App
 
 A prototype sobriety testing application built with React Native and Expo.
+[![Release](https://img.shields.io/github/v/release/arneshakash1-boop/my-web-app)](https://github.com/arneshakash1-boop/my-web-app/releases)
 
 ## ⚠️ IMPORTANT DISCLAIMER
 
